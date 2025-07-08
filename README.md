@@ -43,6 +43,49 @@
 
 ---
 
+### 🏅 Certifications & Badges
+
+#### 📘 Google Cloud Skill Badges
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="25"/>
+  Build Infrastructure with Terraform — Issued May 10, 2024  
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="25"/>
+  Develop Your Google Cloud Network — Issued May 10, 2024  
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="25"/>
+  Implement Load Balancing on Compute Engine — Issued Apr 3, 2024  
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="25"/>
+  Optimize Costs for GKE — Issued May 9, 2024  
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="25"/>
+  Set Up an App Dev Environment — Issued (Date N/A)  
+</p>
+
+#### 🛰 Cisco & Red Hat
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="cisco" width="25"/>  
+  CCNA: Switching, Routing, and Wireless Essentials — Issued Dec 13, 2021  
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="cisco" width="25"/>
+  English for IT 1 — Issued Nov 29, 2023  
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="cisco" width="25"/>
+  Introduction to IoT — Issued Apr 27, 2024  
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="redhat" width="25"/>
+  RH134: Red Hat System Administration II – Issued Aug 2, 2024  
+</p>
+
+#### 🔐 Autres
+
+- 🛡️ ISC2 Candidate – Expired Dec 31, 2023
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -57,18 +100,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=elmehdiaitami&theme=gruvbox" />
 </p>
 
----
-
-### 🏅 Certifications & Badges
-
-<p align="left">
-  <a href="https://www.credly.com/badges/XXXXX" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/XXX/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="90"/>
-  </a>
-  <a href="https://www.credly.com/badges/YYYY" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/YYY/terraform-associate.png" alt="Terraform Associate" width="90"/>
-  </a>
-</p>
 ---
 
 ### 🧠 Always learning
