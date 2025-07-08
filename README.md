@@ -59,6 +59,18 @@
 
 ---
 
+### 🏅 Certifications & Badges
+
+<p align="left">
+  <a href="https://www.credly.com/badges/XXXXX" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/XXX/aws-certified-cloud-practitioner.png" alt="AWS CCP" width="90"/>
+  </a>
+  <a href="https://www.credly.com/badges/YYYY" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/YYY/terraform-associate.png" alt="Terraform Associate" width="90"/>
+  </a>
+</p>
+---
+
 ### 🧠 Always learning
 
 > "Automate everything, document everything, and never stop learning."
